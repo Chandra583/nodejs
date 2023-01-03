@@ -4,4 +4,4 @@ chandra = {
     developer: true
 }
 
-module.exports = chandra
+module.exports = chandra;
